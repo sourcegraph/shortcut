@@ -4,7 +4,7 @@ This program runs on `cs.dev` and lets you quickly search code on Sourcegraph by
 
 Try it!
 
-- [`cs.dev/lang:python import yaml`](https://cs.dev/lang:python+import+yaml)
+- [`cs.dev/lang:python import yaml`](https://cs.dev/lang%3Apython%20import%20yaml)
 
 ## Release a new version
 
